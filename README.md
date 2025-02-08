@@ -1,7 +1,7 @@
 ```markdown
 # Sign Translation Software
 
-This project is a **Sign Language Translation System** that recognizes and translates American Sign Language (ASL) alphabet gestures into text using **computer vision and deep learning**. It leverages **MediaPipe for hand landmark detection** and a **Convolutional Neural Network (CNN) for classification**. A **Tkinter-based Python application** is developed for real-time sign recognition, and a **mobile application** extends the functionality with text-to-sign, audio-to-sign, and an ASL dictionary.
+This project is a *Sign Language Translation System* that recognizes and translates American Sign Language (ASL) alphabet gestures into text using **computer vision and deep learning**. It leverages **MediaPipe for hand landmark detection** and a **Convolutional Neural Network (CNN) for classification**. A **Tkinter-based Python application** is developed for real-time sign recognition, and a **mobile application** extends the functionality with text-to-sign, audio-to-sign, and an ASL dictionary.
 
 ## 🚀 Features
 - 🎥 **Real-time ASL alphabet recognition** using computer vision.
